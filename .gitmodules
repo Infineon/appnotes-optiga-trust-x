@@ -1,0 +1,15 @@
+[submodule "mbedtls-optiga-trust-x"]
+	path = mbedtls-optiga-trust-x
+	url = https://github.com/Infineon/mbedtls-optiga-trust-x
+[submodule "amazon-freertos-optiga-trust-x"]
+	path = amazon-freertos-optiga-trust-x
+	url = https://github.com/Infineon/amazon-freertos-optiga-trust-x.git
+[submodule "onchipdtls-optiga-trust-x"]
+	path = onchipdtls-optiga-trust-x
+	url = https://github.com/Infineon/onchipdtls-optiga-trust-x.git
+[submodule "arduino-optiga-trust-x"]
+	path = arduino-optiga-trust-x
+	url = https://github.com/Infineon/arduino-optiga-trust-x
+[submodule "getstarted-optiga-trust-x"]
+	path = getstarted-optiga-trust-x
+	url = https://github.com/Infineon/getstarted-optiga-trust-x
