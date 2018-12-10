@@ -13,3 +13,6 @@
 [submodule "getstarted-optiga-trust-x"]
 	path = getstarted-optiga-trust-x
 	url = https://github.com/Infineon/getstarted-optiga-trust-x
+[submodule "technical-training-optiga-trust-x"]
+	path = technical-training-optiga-trust-x
+	url = https://github.com/Infineon/technical-training-optiga-trust-x
